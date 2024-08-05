@@ -1,1 +1,2 @@
-# minventario02
+# express-mvc
+expressjs project with template engine
